@@ -1,0 +1,1 @@
+El algoritmo corre en un tiempo casi constante porque la funcion rehash corre en un tiempo independiente de la cantidad de elementos en el arreglo. Ya sea que haya 10 o 1000 elementos, la palabra arroz se va a tardar lo mismo en ser hashed
